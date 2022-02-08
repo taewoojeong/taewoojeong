@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taewoojeong&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taewoojeong&show_icons=true&theme=github_dark)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongtaewoo)](https://solved.ac/jeongtaewoo)
